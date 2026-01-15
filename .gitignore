@@ -1,0 +1,72 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Crashlytics
+crashlytics-build.properties
+
+# Asset Store packages (DO NOT REDISTRIBUTE - Purchase required)
+Assets/Abandoned_Asylum/
+Assets/Abandoned_Asylum.meta
+Assets/Cursed Priest/
+Assets/Cursed Priest.meta
+Assets/Horror Elements/
+Assets/Horror Elements.meta
+Assets/free horror ambience 2/
+Assets/free horror ambience 2.meta
+Assets/Footsteps - Essentials/
+Assets/Footsteps - Essentials.meta
+Assets/Flashlight/
+Assets/Flashlight.meta
+Assets/VRTemplateAssets/
+Assets/VRTemplateAssets.meta
+Assets/Samples/
+Assets/Samples.meta
+Assets/XR/
+Assets/XR.meta
+Assets/TextMesh Pro/
+Assets/TextMesh Pro.meta
+
+# Recovery files
+Assets/_Recovery/
+Assets/_Recovery.meta
