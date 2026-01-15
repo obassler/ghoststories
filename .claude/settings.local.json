@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls:*)",
-      "Bash(du:*)",
-      "Bash(del \"E:\\\\GVIM game\\\\GhostStories\\\\Assets\\\\PriestProximity.cs\")"
-    ]
-  }
-}
