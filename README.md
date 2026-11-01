@@ -2,6 +2,11 @@
 
 A VR horror game where you must find and banish a cursed priest using your flashlight.
 
+![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![OpenXR](https://img.shields.io/badge/VR-OpenXR-5C2D91)
+![URP](https://img.shields.io/badge/Render-URP-222222)
+
 ## Gameplay
 
 - Explore an abandoned asylum in VR
